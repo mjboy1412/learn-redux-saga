@@ -13,6 +13,7 @@ module.exports = {
     },
   },
   rules: {
+    'linebreak-style': 'off',
     'arrow-parens': 'off',
     'generator-star-spacing': 'off',
     'import/prefer-default-export': 'off',
